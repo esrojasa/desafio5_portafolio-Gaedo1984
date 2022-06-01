@@ -1,28 +1,31 @@
 header {
-    background-color: lightblue;
+  background-color: lightblue;
 }
 
 .linkColor {
-    color: black;
+  color: black;
 }
 
 .presentation {
-    background-image: url('../img/sistems.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 50vh;
-    width: 100%;
+  background-image: url("../img/sistems.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 50vh;
+  width: 100%;
 }
 
 .linkColor:hover {
-    color: white;
+  color: white;
 }
 
 .colorText {
-    color: white;
+  color: white;
 }
 
 .imgSize {
-    width: 750px;
-    height: 500px;
+  width: 750px;
+  height: 500px;
+}
+.navbar {
+  background-color: #db9f2e;
 }
